@@ -206,4 +206,8 @@ cours.pop(2)
 print(cours)
 
 
+#6.display no5 element
+print("\n----Affiche l' element de la cle numero 5----\n")
+
+
 
