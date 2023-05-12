@@ -106,3 +106,14 @@ print(tupl.count(3),"\n\n")
 print("----conenu de l' element no5-----\n")
 
 print(tupl[4],"\n\n")
+
+#.3 convert  the tuple into list for sort the tuple
+
+print("tuple ordonnee")
+
+t=list(tupl)
+print(type(t))
+
+t.sort()
+print(t,"\n\n")
+
