@@ -129,3 +129,8 @@ print("------ajout d' un element a l' index 3")
 t.insert(3,40)
 print(t)
 
+
+#6. affiche ltuplea nouvelle  
+
+print("affichage de la nouvelle tuple")
+
