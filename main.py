@@ -140,3 +140,5 @@ print(tupl,'\n\n')
 
 #III.LES SETS
 
+#1. set creation
+
