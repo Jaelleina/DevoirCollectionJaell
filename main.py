@@ -124,3 +124,8 @@ print("ajout d' un element dans le tuple")
 t.append(20)
 print(t)
 
+#5. insert on the index 3
+print("------ajout d' un element a l' index 3")
+t.insert(3,40)
+print(t)
+
