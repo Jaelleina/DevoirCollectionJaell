@@ -85,3 +85,7 @@ print(listes,"\n\n")
 print("------clear the list-------\n")
 listes.clear()
 print(listes,"\n")
+
+#11. supprime la liste
+
+del listes
