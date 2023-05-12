@@ -134,3 +134,7 @@ print(t)
 
 print("affichage de la nouvelle tuple")
 
+#reconvert the list into tuple 
+tupl=tuple(t)
+print(tupl,'\n\n')
+
