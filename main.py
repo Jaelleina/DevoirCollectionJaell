@@ -166,4 +166,6 @@ del animals
 
 #IV. DICTIONNAIRE
 
+#1. dict creation 
+
 
