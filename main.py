@@ -34,3 +34,13 @@ for li in listes:
          liste_copy.append(li)
 
 print(liste_copy,"\n\n")
+
+
+
+#4.ajouter un element a la fin de la liste
+
+print("------ajouter un  element a la fin de la liste\n-----")
+
+
+listes.append("yvonne")
+print(list,"\n\n")
