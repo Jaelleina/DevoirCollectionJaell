@@ -216,5 +216,11 @@ print("\n----Ajouter un nouvel element----\n")
 cours.setdefault(11,"cryptographie")
 print(cours)
 
+#8.copy of the dirct
+print("\n-------creation d'une copie du dictionnaire----\n")
+
+cours_copy=cours.copy()
+print(cours_copy)
+
 
 
