@@ -64,3 +64,11 @@ print("-------supression de l'element no3--------\n")
 listes.pop(2)
 
 print(listes,"\n\n")
+
+#7.suppression de l'element a l' index no2
+
+print("suppression de l' element a l' index no2\n")
+
+listes.pop(2)
+
+print(listes,"\n\n")
