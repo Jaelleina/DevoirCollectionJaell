@@ -151,4 +151,12 @@ print("------ajouter d'un element dans le set----")
 animals.add('serpent')
 print(animals,'\n')
 
+#3. remove an element
+
+print("---supression de l' element 'zebra")
+
+animals.remove('zebra')
+
+print(animals,'\n')
+
 
