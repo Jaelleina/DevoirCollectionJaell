@@ -141,4 +141,14 @@ print(tupl,'\n\n')
 #III.LES SETS
 
 #1. set creation
+print("---creation et affichage du SSET-----")
+
+animals={'lion','cat','dog','hyena','cow','zebra','eagle','chevre','fish','mouton'}
+print(animals,'\n')
+
+#2. add an element
+print("------ajouter d'un element dans le set----")
+animals.add('serpent')
+print(animals,'\n')
+
 
