@@ -164,4 +164,6 @@ print(animals,'\n')
 print("-----suppression de la set-----")
 del animals
 
+#IV. DICTIONNAIRE
+
 
