@@ -89,3 +89,6 @@ print(listes,"\n")
 #11. supprime la liste
 
 del listes
+
+#II                      
+print("LES TUPLES")
