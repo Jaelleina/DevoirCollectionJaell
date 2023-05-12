@@ -72,3 +72,10 @@ print("suppression de l' element a l' index no2\n")
 listes.pop(2)
 
 print(listes,"\n\n")
+
+#9. affiche le sens au sens inverse
+
+print("-------afichage en sens inverse de la liste------\n")
+
+listes.reverse()
+print(listes,"\n\n")
