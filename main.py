@@ -12,3 +12,12 @@ listes=['Billy','Jeanne','Titi','Milly','Jacky','Marie','Ginette','Moses','Lily'
 
 
 print(listes,"\n\n")
+
+
+#2. changement du  contenu de l'element nO 5
+
+print("2.--------changement du contenu de l'element no5----------\n")
+
+listes[4]='Forte'
+
+print(listes,"\n\n")
