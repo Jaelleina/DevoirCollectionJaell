@@ -79,3 +79,9 @@ print("-------afichage en sens inverse de la liste------\n")
 
 listes.reverse()
 print(listes,"\n\n")
+
+#10. vider la list
+
+print("------clear the list-------\n")
+listes.clear()
+print(listes,"\n")
