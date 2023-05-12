@@ -117,3 +117,10 @@ print(type(t))
 t.sort()
 print(t,"\n\n")
 
+#4. append an element to the tuple 
+
+print("ajout d' un element dans le tuple")
+
+t.append(20)
+print(t)
+
