@@ -208,6 +208,13 @@ print(cours)
 
 #6.display no5 element
 print("\n----Affiche l' element de la cle numero 5----\n")
+print(cours.get(5))
+
+#7.aad new  element
+
+print("\n----Ajouter un nouvel element----\n")
+cours.setdefault(11,"cryptographie")
+print(cours)
 
 
 
