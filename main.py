@@ -92,3 +92,11 @@ del listes
 
 #II                      
 print("LES TUPLES")
+
+#1. tuple creation
+  
+print("-------l'occurence de la valeur'3' dans le tuple----\n")
+
+tupl=(2,13,33,2,28,10,45,3,24,3,17)
+
+print(tupl.count(3),"\n\n")
