@@ -159,4 +159,9 @@ animals.remove('zebra')
 
 print(animals,'\n')
 
+#4. delete the set
+
+print("-----suppression de la set-----")
+del animals
+
 
