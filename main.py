@@ -191,7 +191,14 @@ for k in cours. keys():
     #3. affiche les valeurs
 print('----affichage des valeurs')
 for v in cours. values():
-    print(v) 
+    print(v)
+    
+    #4. display key and value
+
+print("\n--affiche les cles et les valeurs sous le format cle:valeur")   
+
+for key in cours:
+    print(key,":",cours[key]) 
 
 
 
