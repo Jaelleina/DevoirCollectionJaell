@@ -199,6 +199,11 @@ print("\n--affiche les cles et les valeurs sous le format cle:valeur")
 
 for key in cours:
     print(key,":",cours[key]) 
+    
+    #5.supprime l' element a la  cle no2
+print("\n-----supression de l' element a la cle no2----\n")
+cours.pop(2)
+print(cours)
 
 
 
