@@ -138,3 +138,5 @@ print("affichage de la nouvelle tuple")
 tupl=tuple(t)
 print(tupl,'\n\n')
 
+#III.LES SETS
+
