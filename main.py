@@ -187,6 +187,11 @@ print(cours,'\n')
 print("-------affichage des cles-----")
 for k in cours. keys():
     print(k,'\n')
+    
+    #3. affiche les valeurs
+print('----affichage des valeurs')
+for v in cours. values():
+    print(v) 
 
 
 
