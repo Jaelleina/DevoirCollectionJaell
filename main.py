@@ -44,3 +44,14 @@ print("------ajouter un  element a la fin de la liste\n-----")
 
 listes.append("yvonne")
 print(list,"\n\n")
+
+
+
+
+#5.ajout d l'element a l' index no2 
+
+print("-------ajout d'un element a l'index no2\n-----")
+
+listes.insert(2,'sultan')
+
+print(listes,"\n\n")
