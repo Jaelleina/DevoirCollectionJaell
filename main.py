@@ -55,3 +55,12 @@ print("-------ajout d'un element a l'index no2\n-----")
 listes.insert(2,'sultan')
 
 print(listes,"\n\n")
+
+
+#6. suppression de l' element no3
+
+print("-------supression de l'element no3--------\n")
+
+listes.pop(2)
+
+print(listes,"\n\n")
