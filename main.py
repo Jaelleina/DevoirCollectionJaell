@@ -167,5 +167,26 @@ del animals
 #IV. DICTIONNAIRE
 
 #1. dict creation 
+print("------creation et affichage du dictionnaire")
+cours={1:'c++',
+2:'francais',
+3:'c#',
+4:'python',
+5:'java',
+6:'E-commerce',
+7:'php',
+8:'kiswahili',
+9:'statistique',
+10:'chinois'
+
+}
+
+print(cours,'\n')
+
+#2. affiche les cle
+print("-------affichage des cles-----")
+for k in cours. keys():
+    print(k,'\n')
+
 
 
